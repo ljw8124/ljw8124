@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ljw8124
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 _Hi, I’m @ljw8124_
+
+_Come. Challenge ME!!!_
+
+
+![Jwooooo's Github Stats](https://github-readme-stats.vercel.app/api?username=ljw8124&show_icons=true&theme=cobalt)
 
 <!---
 ljw8124/ljw8124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
