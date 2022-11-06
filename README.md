@@ -2,7 +2,7 @@
 ## 👋 _Hi, I’m @ljw8124_
 
 
-# Interested in...
+#### Interested in...
 - Refactioring
 - effective programming
 - positive influence
