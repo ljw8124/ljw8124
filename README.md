@@ -1,10 +1,10 @@
-<div aling="center">
+
 ## 👋 _Hi, I’m @ljw8124_
 
 
-# smirk: Interest
+# Interested in...
 - Refactioring
-- effective coding
+- effective programming
 - positive influence
 
 
@@ -18,4 +18,3 @@ ljw8124/ljw8124 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-</div>
