@@ -3,7 +3,7 @@
 
 
 #### Interested in...
-- Refactioring
+- Refactoring
 - effective programming
 - positive influence
 
