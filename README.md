@@ -4,8 +4,8 @@
 
 #### Interested in...
 - Refactoring
-- effective programming
-- positive influence
+- Effective programming
+- Positive influence
 
 
 _Come. Challenge ME!!!_
