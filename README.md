@@ -1,12 +1,10 @@
 
 ## 👋 _Hi, I’m @ljw8124_
 
-<div align="center">
 #### Interested in...
 - Refactoring
 - Effective programming
 - Positive influence
-</div>
 
 _Come. Challenge ME!!!_
 
