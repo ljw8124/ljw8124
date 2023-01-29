@@ -9,7 +9,7 @@
 _Come. Challenge ME!!!_
 
 
-<!-- ![Jwooooo's Github Stats](https://github-readme-stats.vercel.app/api?username=ljw8124&show_icons=true&theme=cobalt) -->
+![Jwooooo's Github Stats](https://github-readme-stats.vercel.app/api?username=ljw8124&show_icons=true&theme=cobalt)
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljw8124&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=ljw8124&show_icons=true"> -->
 
