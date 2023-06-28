@@ -39,7 +39,7 @@ _Come. Challenge ME!!!_
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljw8124&exclude_repo=ljw8124.github.io&layout=compact&theme=transparent"/>
   </a>
   <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=ljw8124&theme=transparent&show_icons=true" width="47.5%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ljw8124&theme=transparent&show_icons=true" width="47%" />
   </a>
 </div>
 
