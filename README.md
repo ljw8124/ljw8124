@@ -17,7 +17,7 @@ Refactoring, Effective programming, Positive influence
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-brown?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-brown?style=for-the-badge&logo=java&logoColor=white"/></br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=Nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
