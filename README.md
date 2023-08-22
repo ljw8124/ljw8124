@@ -2,6 +2,14 @@
 
 ## 👋 _Hi, I’m @ljw8124_
 
+I work as **front-end dev**
+
+and
+
+I study on **back-end dev**
+
+</br>
+
 ### I'm Interested in...
 Refactoring, Effective programming, Positive influence
 
