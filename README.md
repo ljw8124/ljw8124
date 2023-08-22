@@ -2,11 +2,11 @@
 
 ## 👋 _Hi, I’m @ljw8124_
 
-I work as **front-end dev**
+I work as **Front-End Dev**
 
 and
 
-I study on **back-end dev**
+I study on **Back-End Dev**
 
 </br>
 
