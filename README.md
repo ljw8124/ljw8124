@@ -13,8 +13,6 @@ I study on **Back-End Dev**
 ### I'm Interested in...
 Refactoring, Effective programming, Positive influence
 
-</div>
-
 </br>
 <!--
 <div align="center">
