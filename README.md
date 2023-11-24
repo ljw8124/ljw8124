@@ -8,12 +8,9 @@ and
 
 I study on **Back-End Dev**
 
-</br>
-
 ### I'm Interested in...
 Refactoring, Effective programming, Positive influence
 
-</br>
 <!--
 <div align="center">
 
@@ -42,8 +39,9 @@ Refactoring, Effective programming, Positive influence
 
 </br>
 </br>
-</br>
+
 -->
+</br>
 
 <div align='center'>
 
