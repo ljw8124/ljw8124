@@ -45,7 +45,9 @@ Refactoring, Effective programming, Positive influence
 
 <div align='center'>
 
+<!--
 _Come. Challenge ME!!!_
+-->
 
 
   <a href="s">
